@@ -1,12 +1,8 @@
 ### Hello World! 🌎👋
 
+Hi, I'm José Kiesling. 
 
-
-- 🖥 I’m currently learning Computer Science
-  - 🐍 Python
-  - ☕ Java
-  - 🟪 C#
-  - 💸 PHP
+- 🖥 I'm learning Computer Science in Universidad del Valle de Guatemala.
  
 - 📫 How to reach me: pkiesling@gmail.com
 
