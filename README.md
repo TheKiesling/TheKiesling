@@ -9,3 +9,6 @@
   - 💸 PHP
  
 - 📫 How to reach me: pkiesling@gmail.com
+
+## Statistics 🧐
+![](https://github-readme-stats.vercel.app/api?username=thekiesling)
