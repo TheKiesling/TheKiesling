@@ -1,5 +1,5 @@
 ## Hello World! 🌎👋
-<img src= "https://user-images.githubusercontent.com/84196494/151650541-2bdd4c41-037e-4d4a-9f91-0932a46365f0.png" width="100px"/>
+<img src= "https://user-images.githubusercontent.com/84196494/151650541-2bdd4c41-037e-4d4a-9f91-0932a46365f0.png" width="300px"/>
 
 Hi, I'm José Kiesling. 
 
