@@ -1,4 +1,5 @@
 ## Hello World! 🌎👋
+<img src= "https://user-images.githubusercontent.com/84196494/151650541-2bdd4c41-037e-4d4a-9f91-0932a46365f0.png" width="100px"/>
 
 Hi, I'm José Kiesling. 
 
@@ -16,5 +17,5 @@ Hi, I'm José Kiesling.
 ## Social Medias 👀
 <img src="https://img.shields.io/badge/jose_kiesling%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/josekiesling%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>  <img src="https://img.shields.io/badge/Jose Kiesling%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 
-<img src= "https://user-images.githubusercontent.com/84196494/151650334-4b3e0da3-38c9-444b-ab0b-5678cd2e2674.png" width="100px"/>
+
 
