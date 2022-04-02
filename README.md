@@ -13,6 +13,7 @@ Hi, I'm José Kiesling.
 
 ## Statistics 🧐
 ![](https://github-readme-stats.vercel.app/api?username=thekiesling)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekiesling)](https://github.com/thekiesling/github-readme-stats)
 
 ## Social Media 👀
