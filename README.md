@@ -12,9 +12,9 @@ Hi, I'm José Kiesling.
 
 
 ## Statistics 🧐
-![](https://github-readme-stats.vercel.app/api?username=thekiesling&theme=solarized-dark)
+![](https://github-readme-stats.vercel.app/api?username=thekiesling&theme=vue-dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekiesling&layout=compact&theme=solarized-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekiesling&layout=compact&theme=vue-dark)
 
 
 ## Social Media 👀
