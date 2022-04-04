@@ -12,9 +12,9 @@ Hi, I'm José Kiesling.
 
 
 ## Statistics 🧐
-![](https://github-readme-stats.vercel.app/api?username=thekiesling&theme=vue-dark&show_icons=true&count_private=true&hide=prs,issues) 
+![](https://github-readme-stats.vercel.app/api?username=thekiesling&theme=city_lights&show_icons=true&count_private=true&hide=prs,issues) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekiesling&layout=compact&theme=vue-dark&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=thekiesling&layout=compact&theme=city_lights&langs_count=10)
 
 
 ## Social Media 👀
