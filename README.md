@@ -4,6 +4,8 @@
 Hi, I'm José Kiesling. 
 
 - 🖥 I'm learning Computer Science at Universidad del Valle de Guatemala.
+
+- 🤖 I'm currently working at Sento-AI as an Implementation Developer
  
 - 📫 How to reach me: pkiesling@gmail.com
 
