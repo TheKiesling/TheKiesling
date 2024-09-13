@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm José Pablo Kiesling</h1>
-
 ![image](https://github.com/TheKiesling/TheKiesling/assets/84196494/88619a06-7f0b-4701-b89b-47d8ca2f5489)
 
 A Computer Science student at **Universidad del Valle** 📚 and Implementation Developer at **Sento-AI** 🤖. 
