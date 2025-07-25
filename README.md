@@ -1,4 +1,4 @@
-![image](https://github.com/TheKiesling/TheKiesling/assets/84196494/88619a06-7f0b-4701-b89b-47d8ca2f5489)
+<img width="1584" height="396" alt="Personal Banner (3)" src="https://github.com/user-attachments/assets/31b02d71-21c3-459e-8ea8-fd816116feb7" />
 
 A Computer Science student at **Universidad del Valle** 📚 and Implementation Developer at **Sento-AI** 🤖. 
 
